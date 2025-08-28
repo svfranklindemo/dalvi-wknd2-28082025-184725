@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/dalvi-dalvi-2025-8-28-11-47-21/language-masters/en:/",
+    "/content/dalvi-dalvi-2025-8-28-11-47-21/language-masters/en/:/",
+    "/content/dalvi-dalvi-2025-8-28-11-47-21/language-masters/en/:/en/",
+    "/content/dalvi-dalvi-2025-8-28-11-47-21/configuration:/.helix/config.json",
+    "/content/dalvi-dalvi-2025-8-28-11-47-21/metadata:/metadata.json",
+    "/content/dalvi-dalvi-2025-8-28-11-47-21/redirects:/redirects.json",
+    "/content/dalvi-dalvi-2025-8-28-11-47-21/placeholders:/placeholders.json",
+    "/content/dalvi-dalvi-2025-8-28-11-47-21.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/dalvi-dalvi-2025-8-28-11-47-21/",
+    "/content/dam/dalvi-dalvi-2025-8-28-11-47-21/"
   ]
 }
